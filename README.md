@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **gajtaniyll@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Python is named after the comedy series "Monty Python's Flying Circus," not the snake!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
