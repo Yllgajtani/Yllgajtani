@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yll Gajtani</h1>
 <h3 align="center">A passionate frontend developer from Kosovo</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 
 <p align="left"> <img src="https://imgs.search.brave.com/3HVkS_1LSc5GJoiExA1IbnNmny93YkiiQpBHNJF9RiM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhhSE13ZW5jMVlt/Sm1abmx4T1RWdlpu/TnFZVGMwT0dGMmQy/azJOMmx6ZVhGamQy/MXJabmR2WnlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vdnpPMFZjOGIy/VkJMaS8yMDAuZ2lm.gif" alt="yllgajtani" /> </p>
 
